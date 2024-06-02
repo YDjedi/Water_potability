@@ -15,7 +15,7 @@
 
 - *Scikit learn (sklearn)* : This is a python library for creating machine learning models and transformational pipelines.
 
-Also some minor but essential libraries like numpy, pandas, matplotlib are used for data exploration and visualisation.
+Also some minor but essential libraries like numpy, pandas, matplotlib are used for data exploration and visualization.
 
 ---
 
